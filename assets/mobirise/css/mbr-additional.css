@@ -2532,18 +2532,6 @@ body {
 .cid-qCy6q0tuEh .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-qGeQzEHwhM {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qGeQzEHwhM .mbr-text,
-.cid-qGeQzEHwhM blockquote {
-  color: #767676;
-}
-.cid-qGeQzEHwhM .mbr-text {
-  text-align: center;
-}
 .cid-qCyel69pmV {
   background: #ffffff;
 }
@@ -2566,6 +2554,18 @@ body {
   .cid-qCyel69pmV .image-block {
     width: 100% !important;
   }
+}
+.cid-qGeQzEHwhM {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qGeQzEHwhM .mbr-text,
+.cid-qGeQzEHwhM blockquote {
+  color: #767676;
+}
+.cid-qGeQzEHwhM .mbr-text {
+  text-align: center;
 }
 .cid-qCmvJfTHeq .navbar {
   background: #ffffff;
